@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/DevelopTools/Code/Github/Algorithm/MCSS",
-      "program": "d:/DevelopTools/Code/Github/Algorithm/MCSS/build/Debug/outDebug",
+      "cwd": "d:/DevelopTools/Code/Github/Algorithm/Solved/Luogu_P1049",
+      "program": "d:/DevelopTools/Code/Github/Algorithm/Solved/Luogu_P1049/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
