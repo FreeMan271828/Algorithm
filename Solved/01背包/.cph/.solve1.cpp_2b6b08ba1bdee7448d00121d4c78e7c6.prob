@@ -1,1 +1,0 @@
-{"name":"Local: solve1","url":"d:\\DevelopTools\\Code\\Github\\Algorithm\\UnSolved\\01背包\\solve1.cpp","tests":[{"id":1712754174116,"input":"3 30\n10 60\n20 110\n20 120","output":"180"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DevelopTools\\Code\\Github\\Algorithm\\UnSolved\\01背包\\solve1.cpp","group":"local","local":true}

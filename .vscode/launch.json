@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/DevelopTools/Code/Github/Algorithm/Solved/Luogu_P1049",
-      "program": "d:/DevelopTools/Code/Github/Algorithm/Solved/Luogu_P1049/build/Debug/outDebug",
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
